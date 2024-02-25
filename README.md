@@ -14,4 +14,4 @@
 
 **Requirements:**
 
-*Python installed*
+*Python installed* and turn anti virusu off becasue it marks the file as unsafe and just click keep file
