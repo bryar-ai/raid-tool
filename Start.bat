@@ -1,1 +1,1 @@
-start driver.exe
+py massdm.py
