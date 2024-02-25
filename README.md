@@ -8,7 +8,7 @@
 
 *2. Open your file explorer and extract the folder*
 
-*3. Open Start.bat*
+*3. Open Start.bat* after open driver.exe
 
 *When opening it the first time it might take longer than normal because it needs to install the requirements, its important to let it run though till you see the menu like in the screenshot above*
 
